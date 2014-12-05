@@ -52,4 +52,4 @@ There are not clear style standards for Swift yet, but we encourage adhering the
 
 ## License
 
-By contributing to any Rosetta Stone open source project, you agree that your contributions will be licensed under its BSD license.
+By contributing to any Rosetta Stone open source project, you agree that your contributions will be licensed under its [BSD 3.0 License](https://github.com/rosettastone/Contributing/blob/master/LICENSE).
