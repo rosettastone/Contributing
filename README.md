@@ -1,6 +1,6 @@
 # Contributing
 
-*Open-source guidelines and project setup*
+*Open source guidelines and project setup*
 
 ## Goals
 
