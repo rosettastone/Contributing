@@ -20,4 +20,4 @@ Each new project should:
 3. Provide 100% documentation
 4. Provide sufficient unit test coverage
 5. Use semantic versioning
-6. Integrative with [Travis-CI](https://travis-ci.org) (when applicable)
+6. Integrate with [Travis-CI](https://travis-ci.org) (when applicable)
