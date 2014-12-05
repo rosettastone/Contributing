@@ -8,7 +8,7 @@ The purpose of this repo is to establish the expectations and requirements that 
 
 ## Contents
 
-*Materials to be included with all open-source distributions.*
+*Materials to be included with all open-source distributions:*
 
 * [BSD 3.0 License](https://github.com/rosettastone/Contributing/blob/master/LICENSE)
 * [Contributing Guidelines](https://github.com/rosettastone/Contributing/blob/master/CONTRIBUTING.md)
