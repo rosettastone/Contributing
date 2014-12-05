@@ -4,7 +4,7 @@
 
 ## Goals
 
-The purpose of this repo is to establish a single source for the expectations and requirements that govern all existing and future open source projects at Rosetta Stone.
+The purpose of this repo is to establish the expectations and requirements that govern all existing and future open source projects at Rosetta Stone.
 
 ## Contents
 
