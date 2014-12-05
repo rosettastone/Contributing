@@ -23,3 +23,27 @@ Each new project should:
 6. Integrate with [Travis-CI](https://travis-ci.org) (when applicable)
 7. Include a descriptive, helpful `README.md`
 8. Include an example project or demo (when applicable)
+
+## Code
+
+All files should contain the following header comment
+
+````c
+//
+//  Rosetta Stone
+//  http://product.rosettastone.com/news/
+//
+//
+//  Documentation
+//  <link to project documentation>
+//
+//
+//  GitHub
+//  <link to project github>
+//
+//
+//  License
+//  Copyright (c) <year> Rosetta Stone
+//  Released under a BSD license: http://opensource.org/licenses/BSD-3-Clause
+//
+````
