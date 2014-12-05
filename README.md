@@ -21,3 +21,4 @@ Each new project should:
 4. Provide sufficient unit test coverage
 5. Use semantic versioning
 6. Integrate with [Travis-CI](https://travis-ci.org) (when applicable)
+7. Include a descriptive, helpful `README.md`
