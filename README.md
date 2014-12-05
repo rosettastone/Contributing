@@ -15,14 +15,14 @@ The purpose of this repo is to establish the expectations and requirements that 
 
 ## Project Guidelines
 
-Each new project should:
+All projects should:
 
 1. Contain **a copy** of `LICENSE`
 2. Contain **a link** to `CONTRIBUTING.md`
 3. Provide 100% documentation
 4. Provide sufficient unit test coverage
-5. Use semantic versioning
-6. Integrate with [Travis-CI](https://travis-ci.org) (when applicable)
+5. Use [Semantic Versioning](http://semver.org)
+6. Integrate with [Travis-CI](https://travis-ci.org) (when possible)
 7. Include a descriptive, helpful `README.md`
 8. Include an example project or demo (when applicable)
 
