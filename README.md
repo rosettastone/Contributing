@@ -26,7 +26,7 @@ Each new project should:
 
 ## Code
 
-All files should contain the following header comment
+All files should contain the following header comment:
 
 ````c
 //
