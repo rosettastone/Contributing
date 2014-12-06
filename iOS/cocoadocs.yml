@@ -1,0 +1,11 @@
+# Rosetta Stone theme for CocoaDocs
+
+# Create a .cococadocs.yml file in your repo, then add the following
+
+highlight-color: "#4195D3"
+highlight-dark-color: "#3272A1"
+darker-color: "#4195D3"
+darker-dark-color: "#224E6E"
+background-color: "#f9db35"
+alt-link-color: "#706F72"
+warning-color: "#FAEB96"
