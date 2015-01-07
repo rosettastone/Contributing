@@ -15,16 +15,16 @@ The purpose of this repo is to establish the expectations and requirements that 
 
 ## Project Guidelines
 
-All projects should:
+Where applicable, all projects should:
 
 1. Contain **a copy** of `LICENSE`
-2. Contain **a link** to `CONTRIBUTING.md`
-3. Provide 100% documentation
-4. Provide sufficient unit test coverage
-5. Use [Semantic Versioning](http://semver.org)
-6. Integrate with [Travis-CI](https://travis-ci.org) (when possible)
-7. Include a descriptive, helpful `README.md`
-8. Include an example project or demo (when applicable)
+* Contain **a link** to `CONTRIBUTING.md`
+* Provide 100% documentation
+* Provide sufficient unit test coverage
+* Use [Semantic Versioning](http://semver.org)
+* Integrate with [Travis-CI](https://travis-ci.org)
+* Include a descriptive, helpful `README.md`
+* Include an example project or demo
 
 ## Code
 
@@ -37,7 +37,7 @@ All files should contain the following header comment:
 //
 //
 //  Documentation
-//  <link to project documentation>
+//  <link to project documentation, if applicable>
 //
 //
 //  GitHub
